@@ -1,9 +1,9 @@
 Config = {
-    Keybind = 'X',
+    Keybind = 'F12',
 
     AllowMovement = true,
     DisableLeftClick = true, -- prevents accidentally hitting someone if allowMovement is enabled
-    HoldToShow = true,
+    HoldToShow = false,
 
     --- ICON SOURCE: https://icon-sets.iconify.design/
     Items = {
